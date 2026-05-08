@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/6RZ9jQQD/Group-3.png" width="180px">
+  <img src="https://i.ibb.co.com/6RZ9jQQD/Group-3.png" width="120px">
   <h1>OpenVerse Labs</h1>
   <p><b>Advanced Research & Open Source Engineering</b></p>
 </div>
